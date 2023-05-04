@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Joan Didac Hernandez 👋<br>I'm a full-stack web developer, leveraging my past experience in Facilities Management and the culinary industry to bring a unique perspective to tech solutions. I graduated from Ironhack Barcelona's web development bootcamp and have a strong grasp of the MERN stack.</p>
+<p align="left">My name is Joan Didac Hernandez 👋<br>I'm a full-stack web developer, leveraging my past experience in Facilities Management and the culinary industry to bring a unique perspective to tech solutions. I graduated from Ironhack Barcelona's web development bootcamp and have a strong grasp of the MERN stack.</p>
 
 ###
 
