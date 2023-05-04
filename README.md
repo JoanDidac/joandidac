@@ -50,7 +50,7 @@
 ###
 
 <div align="center">
-  <img height="900" src="https://img.freepik.com/free-vector/abstract-colorful-transparent-polygonal-background_1055-5149.jpg?w=740&t=st=1683196070~exp=1683196670~hmac=d559a3db37290140f1ce2cd776878914fc7066e326dcb0c57699c27a831cd7be"  />
+  <img height="55" src="https://www.freepnglogos.com/uploads/divider-png/divider-boom-blasters-loud-custom-car-horns-funny-musical-car-2.png"  />
 </div>
 
 ###
