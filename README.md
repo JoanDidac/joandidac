@@ -53,9 +53,9 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img height="55" src="https://www.freepnglogos.com/uploads/divider-png/divider-boom-blasters-loud-custom-car-horns-funny-musical-car-2.png"  />
-</div>
+</div> -->
 
 ###
 
