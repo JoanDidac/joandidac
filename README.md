@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center">Tools/Lenguages/Stack</h3>
+<h4 align="left">Stats</h4>
 
 ###
 
@@ -21,9 +21,9 @@
 
 ###
 
-<div align="center">
-  <img height="55" src="https://www.freepnglogos.com/uploads/divider-png/divider-boom-blasters-loud-custom-car-horns-funny-musical-car-2.png"  />
-</div>
+<h3 align="center">Tools/Lenguages/Stack</h3>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
@@ -53,13 +53,9 @@
 
 ###
 
-<!-- <div align="center">
+<div align="center">
   <img height="55" src="https://www.freepnglogos.com/uploads/divider-png/divider-boom-blasters-loud-custom-car-horns-funny-musical-car-2.png"  />
-</div> -->
-
-###
-
-<!-- <img src="https://raw.githubusercontent.com/joandidac/joandidac/output/snake.svg" alt="Snake animation" /> -->
+</div>
 
 ###
 
@@ -69,13 +65,16 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="52" height="40" alt="visualstudio logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="150" src="https://www.pngkit.com/png/full/225-2256775_paint-splatter-vector-png-neon-paint-splatter-png.png"  />
 
 ###
