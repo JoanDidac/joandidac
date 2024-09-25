@@ -7,7 +7,7 @@ Full Stack Developer
 Father of a 4 year old tornado , born in Barcelona but in love with the world. Sometimes full-stack developer others front-end developer with a strong foundation in the MERN stack (MongoDB, Express, React, Node.js). My journey into web development has been driven by a fascination with creating intuitive, responsive, and visually appealing web applications. Why Development? I am drawn to development because it allows me to combine my creativity with my technical skills to build seamless user experiences. My diverse background enables me to approach problems from unique perspectives and deliver innovative solutions. --- Feel free to contact for a quick chat. Salut!
 
 * 🌍  I'm based in Barcelona
-* 🖥️  See my portfolio at [3d\_portfolio](http://https://www.joandidac.com/)
+* 🖥️  See my portfolio at [3d\_portfolio](https://www.joandidac.com/)
 * ✉️  You can contact me at [joandidachr@gmail.com](mailto:joandidachr@gmail.com)
 * 🚀  I'm currently working on [Brainwave](http://https://www.jd-brainwave.site/)
 * 🧠  I'm learning Three.js, Next.js , Typescript and Stayin' alive by the Bee Gees.
